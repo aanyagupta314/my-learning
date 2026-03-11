@@ -8,7 +8,7 @@ I found an alternate method to calculate these values.
 
 # Factorization
 
-Test
+Test3
 
 ## Prime Factorization
 
