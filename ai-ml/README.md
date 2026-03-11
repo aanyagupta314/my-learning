@@ -1,0 +1,1 @@
+I'm working with my father & mentor on an interesting [machine reasoning](https://github.com/sunnymax2002/machine-reasoning) project, and learning the concepts

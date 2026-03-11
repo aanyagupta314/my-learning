@@ -1,0 +1,1 @@
+I write python code in a separate repo: [py-basics](https://github.com/aanyagupta314/py-basics)
