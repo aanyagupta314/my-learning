@@ -1,1 +1,1 @@
-I'm working with my father & mentor on an interesting [machine reasoning](https://github.com/sunnymax2002/machine-reasoning) project, and learning the concepts
+I'm working with my father & mentor on an interesting [machine reasoning](https://github.com/sunnymax2002/machine-reasoning) project, and learning the concepts, and finding out how to apply them to solve some useful problem
