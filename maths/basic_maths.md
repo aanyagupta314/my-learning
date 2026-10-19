@@ -106,7 +106,7 @@ For $ax^2+bx+c=0$ with roots $r_1$ and $r_2$:
 
 - **Prime Factorization:** $n=p_1^{e_1}p_2^{e_2}\cdots p_k^{e_k}$
 - **Number of Positive Divisors:** $d(n)=(e_1+1)(e_2+1)\cdots(e_k+1)$
-- **GCD–LCM Relationship:** $\gcd(a,b)\times\operatorname{lcm}(a,b)=a\times b$
+- **GCD–LCM Relationship:** $gcd(a, b) × lcm(a, b) = a × b$
 
 ### 3. Modular Arithmetic & Cyclic Patterns
 
